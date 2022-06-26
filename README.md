@@ -26,6 +26,9 @@ Using Tableau Public, created a dashboard story with the following visualization
 Each visualization includes a key take-away summary, which are reproduced below.
 
 1. Demographic Data
+
+![Demographic Data Visualization](demo.PNG)
+
 * Over 80% of users are subscribers
 * About 2/3 are users are male
 * Many users were born between the mid-1980s and the mid-1990s
