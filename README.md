@@ -27,37 +27,37 @@ Each visualization includes a key take-away summary, which are reproduced below.
 
 1. Demographic Data
 
-![Demographic Data Visualization](demo.PNG)
-
 * Over 80% of users are subscribers
 * About 2/3 are users are male
 * Many users were born between the mid-1980s and the mid-1990s
 
-2. Start and End Locations
+![Demographic Data Visualization](demo.PNG)
 
-![Location Visualization](location.PNG)
+2. Start and End Locations
 
 * Highest density start and end locations are in close proximity to each other 
 * The sliders on each map can be adjusted to explore a different range of map results
 
-3. Bike Trip Duration
+![Location Visualization](location.PNG)
 
-![Duration Visualization](duration.PNG)
+3. Bike Trip Duration
 
 * Most trips are less than 1/2 hour in duration
 
-4. Bike Trips by Day
+![Duration Visualization](duration.PNG)
 
-![Day Visualization](day.PNG)
+4. Bike Trips by Day
 
 * Most trips on all days are by male subscribers
 
-5. Bike Trips by Hour
+![Day Visualization](day.PNG)
 
-![Hour Visualization](hour.PNG)
+5. Bike Trips by Hour
 
 * Weekday peak hours are 7-9am and 5-7pm
 * Weekend peak hours are mid-day
+
+![Hour Visualization](hour.PNG)
 
 ## Summary
 
