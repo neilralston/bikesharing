@@ -34,16 +34,28 @@ Each visualization includes a key take-away summary, which are reproduced below.
 * Many users were born between the mid-1980s and the mid-1990s
 
 2. Start and End Locations
+
+![Location Visualization](location.PNG)
+
 * Highest density start and end locations are in close proximity to each other 
 * The sliders on each map can be adjusted to explore a different range of map results
 
 3. Bike Trip Duration
+
+![Duration Visualization](duration.PNG)
+
 * Most trips are less than 1/2 hour in duration
 
 4. Bike Trips by Day
+
+![Day Visualization](day.PNG)
+
 * Most trips on all days are by male subscribers
 
 5. Bike Trips by Hour
+
+![Hour Visualization](hour.PNG)
+
 * Weekday peak hours are 7-9am and 5-7pm
 * Weekend peak hours are mid-day
 
